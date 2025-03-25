@@ -15,13 +15,13 @@ This is a simple **Login and Signup page** built using **React.js**. The project
 ### Step 1: Download the Code
 Clone the repository from GitHub:
 ```sh
-  git clone https://github.com/your-repo/login-signup-react.git
+  git clone https://github.com/your-repo/To-Do-Application.git
 ```
 
 ### Step 2: Open in CMD and Install Dependencies
 Navigate to the project directory:
 ```sh
-  cd login-signup-react
+  cd To-Do-Application
 ```
 Then install the required dependencies:
 ```sh
